@@ -1,29 +1,11 @@
 ---
 layout: post
-title:  "Welcome to My First Post"
+title:  "Welcome to My Site"
 date:   2024-05-15 07:24:52 -0500
-categories: jekyll update
+categories: welcome
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## My first post
 
-Jekyll requires blog post files to be named according to the following format:
+I feel it is necessary to create a place for my thoughts and resources for students in my courses.  A blog has never been something I particularly felt a strong desire to create or maintain.  However, I do feel that it may be beneficial to have a space for all content which relates to my work at [Missouri Southern State University](https://www.mssu.edu){:target="_blank"}.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I hope the content proves to be beneficial to students and others who happen upon this page.
