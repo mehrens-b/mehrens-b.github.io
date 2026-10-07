@@ -6,8 +6,6 @@ permalink: /projects/
 
 Here you can find projects that I have worked on for vairous professional and personal interests.
 
-Check them out here:
-
 {% for project in site.projects %}
   <h2>
     <a href="{{ project.url }}">
