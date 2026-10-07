@@ -11,7 +11,7 @@ Check them out here:
 {% for project in site.projects %}
   <h2>
     <a href="{{ project.url }}">
-      {{ project.name }}
+      {{ project.title }}
     </a>
   </h2>
   <p>{{ project.content | markdownify }}</p>
