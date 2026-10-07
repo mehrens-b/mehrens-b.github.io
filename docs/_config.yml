@@ -59,3 +59,5 @@ plugins:
 collections:
   courses:
     output: true
+  projects:
+    output: true
