@@ -8,11 +8,11 @@ Here you can find projects that I have worked on for vairous professional and pe
 
 Check them out here:
 
-{% for course in site.courses %}
+{% for project in site.projects %}
   <h2>
-    <a href="{{ course.url }}">
-      {{ course.name }} - {{ course.code }}
+    <a href="{{ project.url }}">
+      {{ project.name }}
     </a>
   </h2>
-  <p>{{ course.content | markdownify }}</p>
+  <p>{{ project.content | markdownify }}</p>
 {% endfor %}
