@@ -6,7 +6,6 @@ permalink: /courses/
 
 Here you can find formation on courses I teach.
 
-Check them out here:
 
 {% for course in site.courses %}
   <h2>
