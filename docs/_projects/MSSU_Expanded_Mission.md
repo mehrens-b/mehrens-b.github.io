@@ -1,5 +1,5 @@
 ---
-title: Missouri Southern State University - Mission Expansion
+name: Missouri Southern State University - Mission Expansion
 ---
 
 This project was directed by Aaron Stockton with [Shadow+Light Creative](https://shadowandlightcreative.com/)
