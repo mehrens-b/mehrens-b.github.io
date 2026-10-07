@@ -14,5 +14,5 @@ Check them out here:
       {{ course.name }} - {{ course.code }}
     </a>
   </h2>
-  <p>{{ course.content | markdownify }}</p>
+  <!--<p>{{ course.content | markdownify }}</p>-->
 {% endfor %}
